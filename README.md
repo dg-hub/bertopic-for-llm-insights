@@ -1,4 +1,3 @@
-# bertopic-for-llm-insights
 # Large Language Models (LLMs) Impact Analyzer using BERTopic
 
 The Large Language Models Impact Analyzer is a powerful python repository designed to unveil the true potential of Large Language Models (LLMs) in your organisation. This repository contains Python scripts that leverage the power of state-of-the-art Natural Language Processing (NLP) models, particularly BERTopic to analyse user interactions, evaluate LLM adoption, and generate insightful reports allowing your organisation to understand where and how LLMs contribute to its performance.
